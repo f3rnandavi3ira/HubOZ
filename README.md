@@ -18,7 +18,6 @@ Página web responsiva desenvolvida para apresentar o Osasco Hub (HubOz), mostra
 - [Bootstrap 5](https://getbootstrap.com/)
 - [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 - [Boxicons](https://boxicons.com/)
-- [ScrollIt](https://github.com/mike-engel/ScrollIt)
 
 ## 🚀 Como Visualizar
 
